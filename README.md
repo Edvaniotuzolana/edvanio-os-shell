@@ -1,30 +1,12 @@
- # Edvânio OS Shell
+ # Edvanio Backup System
 
-
-Sistema de gestão desenvolvido em Shell Script.
-
+Sistema de backup automático desenvolvido em Shell Script.
 
 ## Funcionalidades
 
-- Sistema de login
-- Criação de utilizadores
-- Gestão de ficheiros
-- Sistema de logs
-- Menu interativo
+- Criar backups comprimidos
+- Guardar histórico de operações
+- Restaurar backups
+- Usar data e hora nos arquivos
 
-
-## Tecnologias
-
-- Shell Script
-- Linux
-- Bash/Sh
-
-
-## Autor
-
-Edvânio Tuzolana
-
-
-## Objetivo
-
-Projeto desenvolvido durante estudos de programação e administração Linux.
+## Estrutura
